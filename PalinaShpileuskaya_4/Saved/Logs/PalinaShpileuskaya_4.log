@@ -1482,3 +1482,445 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.26-10.05.17:893][230]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Characters/Marine/Animations/NewBlendSpace.NewBlendSpace
 [2023.04.26-10.05.17:902][230]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
 [2023.04.26-10.05.18:705][230]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.26-10.16.57:902][ 33]BlueprintLog: New page: Compile BP_Animation_Marine_01
+[2023.04.26-10.16.57:981][ 33]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_Animation_Marine_01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_Animation_Marine_01_C_2
+	Function /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01_C:ExecuteUbergraph_BP_Animation_Marine_01:0040
+[2023.04.26-10.16.57:983][ 33]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_Animation_Marine_01_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_Animation_Marine_01_C_2
+	Function /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01_C:ExecuteUbergraph_BP_Animation_Marine_01:0040
+[2023.04.26-10.16.58:085][ 33]LogUObjectHash: Compacting FUObjectHashTables data took  11.04ms
+[2023.04.26-10.16.58:123][ 33]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_Animation_Marine_01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_Animation_Marine_01_C_2
+	Function /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01_C:ExecuteUbergraph_BP_Animation_Marine_01:0040
+[2023.04.26-10.16.58:165][ 34]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_Animation_Marine_01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_Animation_Marine_01_C_2
+	Function /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01_C:ExecuteUbergraph_BP_Animation_Marine_01:0040
+[2023.04.26-10.16.58:334][ 35]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_Animation_Marine_01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_Animation_Marine_01_C_2
+	Function /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01_C:ExecuteUbergraph_BP_Animation_Marine_01:0040
+[2023.04.26-10.16.58:351][ 36]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_Animation_Marine_01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_Animation_Marine_01_C_2
+	Function /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01_C:ExecuteUbergraph_BP_Animation_Marine_01:0040
+[2023.04.26-10.16.58:374][ 37]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_Animation_Marine_01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_Animation_Marine_01_C_2
+	Function /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01_C:ExecuteUbergraph_BP_Animation_Marine_01:0040
+[2023.04.26-10.16.58:392][ 38]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_Animation_Marine_01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_Animation_Marine_01_C_2
+	Function /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01_C:ExecuteUbergraph_BP_Animation_Marine_01:0040
+[2023.04.26-10.16.58:414][ 39]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_Animation_Marine_01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_Animation_Marine_01_C_2
+	Function /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01_C:ExecuteUbergraph_BP_Animation_Marine_01:0040
+[2023.04.26-10.16.58:434][ 40]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_Animation_Marine_01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_Animation_Marine_01_C_2
+	Function /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01_C:ExecuteUbergraph_BP_Animation_Marine_01:0040
+[2023.04.26-10.16.58:450][ 41]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_Animation_Marine_01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_Animation_Marine_01_C_2
+	Function /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01_C:ExecuteUbergraph_BP_Animation_Marine_01:0040
+[2023.04.26-10.16.58:468][ 42]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_Animation_Marine_01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_Animation_Marine_01_C_2
+	Function /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01_C:ExecuteUbergraph_BP_Animation_Marine_01:0040
+[2023.04.26-10.16.58:488][ 43]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_Animation_Marine_01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_Animation_Marine_01_C_2
+	Function /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01_C:ExecuteUbergraph_BP_Animation_Marine_01:0040
+[2023.04.26-10.16.58:513][ 44]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_Animation_Marine_01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_Animation_Marine_01_C_2
+	Function /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01_C:ExecuteUbergraph_BP_Animation_Marine_01:0040
+[2023.04.26-10.16.58:532][ 45]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_Animation_Marine_01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_Animation_Marine_01_C_2
+	Function /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01_C:ExecuteUbergraph_BP_Animation_Marine_01:0040
+[2023.04.26-10.16.58:552][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_Animation_Marine_01_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_Animation_Marine_01_C_2
+	Function /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01_C:ExecuteUbergraph_BP_Animation_Marine_01:0040
+[2023.04.26-10.18.11:111][190]BlueprintLog: New page: Compile BP_Animation_Marine_01
+[2023.04.26-10.18.11:242][190]LogUObjectHash: Compacting FUObjectHashTables data took   9.12ms
+[2023.04.26-10.20.24:634][ 44]BlueprintLog: New page: Compile BP_Animation_Marine_01
+[2023.04.26-10.20.24:761][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   9.88ms
+[2023.04.26-10.22.44:482][ 20]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.26-10.22.44:531][ 20]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.26-10.22.44:542][ 20]LogPlayLevel: [PlayLevel] Compiling BP_Marine_01 before play...
+[2023.04.26-10.22.44:679][ 20]LogPlayLevel: [PlayLevel] Compiling BP_Animation_Marine_01 before play...
+[2023.04.26-10.22.44:803][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   9.86ms
+[2023.04.26-10.22.44:808][ 20]LogPlayLevel: PlayLevel: Blueprint regeneration took 277 ms (2 blueprints)
+[2023.04.26-10.22.44:808][ 20]PIE: New page: PIE session: Level1 (26 апр. 2023 г., 14:22:44)
+[2023.04.26-10.22.44:809][ 20]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2023.04.26-10.22.44:813][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004430s)
+[2023.04.26-10.22.44:815][ 20]LogAIModule: Creating AISystem for world Level1
+[2023.04.26-10.22.44:815][ 20]LogPlayLevel: PIE: World Init took: (0.002195s)
+[2023.04.26-10.22.44:815][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.006908s)
+[2023.04.26-10.22.44:881][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2023.04.26-10.22.44:882][ 20]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.04.26-10.22.44:883][ 20]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.26-10.22.44:883][ 20]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.26-10.22.44:883][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.26-10.22.44:883][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.26-10.22.44:883][ 20]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.26-10.22.44:883][ 20]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.26-10.22.44:883][ 20]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.26-10.22.44:883][ 20]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.26-10.22.44:884][ 20]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.26-10.22.44:884][ 20]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.26-10.22.44:884][ 20]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.26-10.22.44:884][ 20]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.26-10.22.44:894][ 20]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.26-10.22.44:894][ 20]LogAudioMixer: Display: 1: FrontRight
+[2023.04.26-10.22.44:916][ 20]LogAudioMixer: Display: Using Audio Device Наушники (JBL TUNE510BT Stereo)
+[2023.04.26-10.22.44:917][ 20]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.26-10.22.44:917][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.26-10.22.44:917][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.26-10.22.44:918][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.26-10.22.44:918][ 20]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.26-10.22.44:918][ 20]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.26-10.22.44:921][ 20]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.26-10.22.44:921][ 20]LogInit: FAudioDevice initialized.
+[2023.04.26-10.22.44:921][ 20]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.26-10.22.44:926][ 20]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2023.04.26-10.22.44:946][ 20]LogLoad: Game class is 'BP_GameMode_C'
+[2023.04.26-10.22.44:948][ 20]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.04.26-12.22.44
+[2023.04.26-10.22.44:948][ 20]LogWorld: Bringing up level for play took: 0.002079
+[2023.04.26-10.22.44:949][ 20]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2023.04.26-10.22.44:954][ 20]PIE: Server logged in
+[2023.04.26-10.22.44:956][ 20]PIE: Play in editor total start time 0,427 seconds.
+[2023.04.26-10.22.50:659][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-10.22.50:659][336]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2023.04.26-10.22.50:660][336]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.04.26-10.22.50:660][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-10.22.50:675][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.26-10.22.50:695][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-10.22.50:758][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-10.22.50:758][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.26-10.22.50:759][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.26-10.22.50:770][336]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2023.04.26-10.22.50:832][337]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.04.26-10.23.16:367][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2023.04.26-10.23.18:494][458]LogSavePackage: Moving '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/Level1_Auto44001EC8047AFABB2A5A5CBB917C5797B.tmp' to '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/Autosaves/Game/Level1_Auto4.umap'
+[2023.04.26-10.23.18:501][458]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 2.176
+[2023.04.26-10.23.18:501][458]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.176
+[2023.04.26-10.28.18:394][288]BlueprintLog: New page: Compile BP_Animation_Marine_01
+[2023.04.26-10.28.18:537][288]LogUObjectHash: Compacting FUObjectHashTables data took  10.92ms
+[2023.04.26-10.28.55:657][665]BlueprintLog: New page: Compile BP_Animation_Marine_01
+[2023.04.26-10.28.55:835][665]LogUObjectHash: Compacting FUObjectHashTables data took  14.83ms
+[2023.04.26-10.29.03:286][952]BlueprintLog: New page: Compile BP_Animation_Marine_01
+[2023.04.26-10.29.03:429][952]LogUObjectHash: Compacting FUObjectHashTables data took  11.77ms
+[2023.04.26-10.29.04:917][992]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.26-10.29.04:953][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.26-10.29.04:954][992]PIE: New page: PIE session: Level1 (26 апр. 2023 г., 14:29:04)
+[2023.04.26-10.29.04:954][992]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2023.04.26-10.29.04:960][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006273s)
+[2023.04.26-10.29.04:961][992]LogAIModule: Creating AISystem for world Level1
+[2023.04.26-10.29.04:962][992]LogPlayLevel: PIE: World Init took: (0.002106s)
+[2023.04.26-10.29.04:962][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.008640s)
+[2023.04.26-10.29.05:043][992]LogUObjectHash: Compacting FUObjectHashTables data took  11.07ms
+[2023.04.26-10.29.05:048][992]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.26-10.29.05:048][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.26-10.29.05:049][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.26-10.29.05:049][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.26-10.29.05:049][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.26-10.29.05:049][992]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.26-10.29.05:049][992]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.26-10.29.05:049][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.26-10.29.05:049][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.26-10.29.05:050][992]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.26-10.29.05:050][992]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.26-10.29.05:050][992]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.26-10.29.05:050][992]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.26-10.29.05:056][992]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.26-10.29.05:056][992]LogAudioMixer: Display: 1: FrontRight
+[2023.04.26-10.29.05:082][992]LogAudioMixer: Display: Using Audio Device Наушники (JBL TUNE510BT Stereo)
+[2023.04.26-10.29.05:083][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.26-10.29.05:083][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.26-10.29.05:083][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.26-10.29.05:084][992]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.26-10.29.05:085][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.26-10.29.05:085][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.26-10.29.05:087][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.26-10.29.05:087][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.26-10.29.05:087][992]LogInit: FAudioDevice initialized.
+[2023.04.26-10.29.05:087][992]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2023.04.26-10.29.05:099][992]LogLoad: Game class is 'BP_GameMode_C'
+[2023.04.26-10.29.05:102][992]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.04.26-12.29.05
+[2023.04.26-10.29.05:103][992]LogWorld: Bringing up level for play took: 0.002256
+[2023.04.26-10.29.05:103][992]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2023.04.26-10.29.05:110][992]PIE: Server logged in
+[2023.04.26-10.29.05:112][992]PIE: Play in editor total start time 0,16 seconds.
+[2023.04.26-10.29.16:839][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-10.29.16:839][534]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2023.04.26-10.29.16:839][534]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.04.26-10.29.16:840][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-10.29.16:856][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.26-10.29.16:879][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-10.29.16:938][534]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.26-10.29.16:939][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.26-10.29.16:940][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.26-10.29.16:944][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-10.29.16:953][534]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2023.04.26-10.29.17:017][535]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.04.26-10.30.09:987][618]LogSavePackage: Moving '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/BP_Animation_Marine_01966232DE40A810455CBA86BB191F5D37.tmp' to '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Content/Characters/Marine/Animations/BP_Animation_Marine_01.uasset'
+[2023.04.26-10.30.10:058][618]AssetCheck: New page: Asset Save: BP_Animation_Marine_01
+[2023.04.26-10.30.10:061][618]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01
+[2023.04.26-10.31.03:612][904]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.26-10.31.03:674][904]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.26-10.31.20:354][588]BlueprintLog: New page: Compile BP_Marine_01
+[2023.04.26-10.31.20:499][588]LogUObjectHash: Compacting FUObjectHashTables data took   8.10ms
+[2023.04.26-10.31.24:023][691]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.26-10.31.24:051][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.26-10.31.24:052][691]PIE: New page: PIE session: Level1 (26 апр. 2023 г., 14:31:24)
+[2023.04.26-10.31.24:052][691]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2023.04.26-10.31.24:055][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003338s)
+[2023.04.26-10.31.24:056][691]LogAIModule: Creating AISystem for world Level1
+[2023.04.26-10.31.24:057][691]LogPlayLevel: PIE: World Init took: (0.001662s)
+[2023.04.26-10.31.24:057][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.005198s)
+[2023.04.26-10.31.24:121][691]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2023.04.26-10.31.24:124][691]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.04.26-10.31.24:124][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.26-10.31.24:124][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.26-10.31.24:124][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.26-10.31.24:124][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.26-10.31.24:124][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.26-10.31.24:124][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.26-10.31.24:124][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.26-10.31.24:124][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.26-10.31.24:125][691]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.26-10.31.24:125][691]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.26-10.31.24:125][691]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.26-10.31.24:125][691]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.26-10.31.24:130][691]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.26-10.31.24:130][691]LogAudioMixer: Display: 1: FrontRight
+[2023.04.26-10.31.24:145][691]LogAudioMixer: Display: Using Audio Device Наушники (JBL TUNE510BT Stereo)
+[2023.04.26-10.31.24:145][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.26-10.31.24:146][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.26-10.31.24:146][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.26-10.31.24:146][691]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.26-10.31.24:146][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.26-10.31.24:146][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.26-10.31.24:148][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.26-10.31.24:148][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.26-10.31.24:148][691]LogInit: FAudioDevice initialized.
+[2023.04.26-10.31.24:148][691]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1'.
+[2023.04.26-10.31.24:158][691]LogLoad: Game class is 'BP_GameMode_C'
+[2023.04.26-10.31.24:161][691]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.04.26-12.31.24
+[2023.04.26-10.31.24:162][691]LogWorld: Bringing up level for play took: 0.001642
+[2023.04.26-10.31.24:162][691]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2023.04.26-10.31.24:166][691]PIE: Server logged in
+[2023.04.26-10.31.24:167][691]PIE: Play in editor total start time 0,117 seconds.
+[2023.04.26-10.31.29:488][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-10.31.29:489][904]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2023.04.26-10.31.29:489][904]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.04.26-10.31.29:489][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-10.31.29:532][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.26-10.31.29:554][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-10.31.29:598][904]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.26-10.31.29:598][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.26-10.31.29:599][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.26-10.31.29:602][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-10.31.29:608][904]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2023.04.26-10.31.29:657][905]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.04.26-10.31.47:390][280]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.04.26-10.31.47:390][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-10.31.58:395][628]LogSavePackage: Moving '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/NewBlendSpaceC061386A41D5EE996D983DA47023860C.tmp' to '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Content/Characters/Marine/Animations/NewBlendSpace.uasset'
+[2023.04.26-10.31.58:428][628]AssetCheck: New page: Asset Save: NewBlendSpace
+[2023.04.26-10.31.58:428][628]LogContentValidation: Display: Validating BlendSpace /Game/Characters/Marine/Animations/NewBlendSpace.NewBlendSpace
+[2023.04.26-10.32.00:818][708]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.26-10.32.00:844][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.26-10.32.00:844][708]PIE: New page: PIE session: Level1 (26 апр. 2023 г., 14:32:00)
+[2023.04.26-10.32.00:844][708]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2023.04.26-10.32.00:848][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003854s)
+[2023.04.26-10.32.00:850][708]LogAIModule: Creating AISystem for world Level1
+[2023.04.26-10.32.00:850][708]LogPlayLevel: PIE: World Init took: (0.001766s)
+[2023.04.26-10.32.00:850][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.005808s)
+[2023.04.26-10.32.01:085][708]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2023.04.26-10.32.01:091][708]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.04.26-10.32.01:091][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.26-10.32.01:091][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.26-10.32.01:091][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.26-10.32.01:091][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.26-10.32.01:091][708]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.26-10.32.01:091][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.26-10.32.01:091][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.26-10.32.01:091][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.26-10.32.01:092][708]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.26-10.32.01:092][708]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.26-10.32.01:092][708]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.26-10.32.01:092][708]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.26-10.32.01:096][708]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.26-10.32.01:096][708]LogAudioMixer: Display: 1: FrontRight
+[2023.04.26-10.32.01:108][708]LogAudioMixer: Display: Using Audio Device Наушники (JBL TUNE510BT Stereo)
+[2023.04.26-10.32.01:108][708]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.26-10.32.01:108][708]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.26-10.32.01:108][708]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.26-10.32.01:109][708]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.26-10.32.01:109][708]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.26-10.32.01:109][708]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.26-10.32.01:111][708]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.26-10.32.01:111][708]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.26-10.32.01:111][708]LogInit: FAudioDevice initialized.
+[2023.04.26-10.32.01:111][708]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level1'.
+[2023.04.26-10.32.01:124][708]LogLoad: Game class is 'BP_GameMode_C'
+[2023.04.26-10.32.01:127][708]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.04.26-12.32.01
+[2023.04.26-10.32.01:127][708]LogWorld: Bringing up level for play took: 0.001595
+[2023.04.26-10.32.01:128][708]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2023.04.26-10.32.01:132][708]PIE: Server logged in
+[2023.04.26-10.32.01:133][708]PIE: Play in editor total start time 0,29 seconds.
+[2023.04.26-10.32.03:379][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-10.32.03:379][789]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2023.04.26-10.32.03:380][789]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.04.26-10.32.03:380][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-10.32.03:505][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.26-10.32.03:526][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-10.32.03:566][789]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.26-10.32.03:568][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.26-10.32.03:569][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.26-10.32.03:572][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-10.32.03:686][789]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2023.04.26-10.32.03:730][790]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.04.26-10.32.39:540][267]LogContentBrowser: Attempting asset rename: NewBlendSpace -> BS_Animation_Marine_01
+[2023.04.26-10.32.39:857][267]LogSavePackage: Moving '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/BS_Animation_Marine_01DCEF83664180F4F83F9635B27FE6C5D2.tmp' to '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Content/Characters/Marine/Animations/BS_Animation_Marine_01.uasset'
+[2023.04.26-10.32.40:071][267]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2023.04.26-10.32.40:133][267]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2023.04.26-10.32.40:167][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.04.26-10.32.41:083][267]LogSavePackage: Moving '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/BP_Animation_Marine_01998B6BDA40D632145CE504A9FC6A2F61.tmp' to '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Content/Characters/Marine/Animations/BP_Animation_Marine_01.uasset'
+[2023.04.26-10.32.41:331][267]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.26-10.32.41:331][267]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Marine/Animations/BP_Animation_Marine_01.BP_Animation_Marine_01
+[2023.04.26-10.32.41:331][267]LogContentValidation: Display: Validating BlendSpace /Game/Characters/Marine/Animations/BS_Animation_Marine_01.BS_Animation_Marine_01
+[2023.04.26-10.33.26:891][798]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{aa94b1ee-93f1-4038-ae00-e9fdb8705f37}.
+[2023.04.26-10.33.26:891][798]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.26-10.33.26:926][798]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.26-10.33.26:926][798]LogAudioMixer: Display: 1: FrontRight
+[2023.04.26-10.33.28:008][799]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.26-10.33.28:032][799]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.26-10.33.28:032][799]LogAudioMixer: Display: 1: FrontRight
+[2023.04.26-10.33.49:493][863]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.04.26-10.33.50:041][863]LogSavePackage: Moving '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/Level1_Auto5C89471CC432370C22BF109B8A2BF96CB.tmp' to '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/Autosaves/Game/Level1_Auto5.umap'
+[2023.04.26-10.33.50:050][863]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.591
+[2023.04.26-10.33.50:050][863]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.591
+[2023.04.26-10.33.50:051][863]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawn/Characters/BP_Marine_01] ([2] browsable assets)...
+[2023.04.26-10.33.50:084][863]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawn/Characters/BP_Marine_01.BP_Marine_01]
+[2023.04.26-10.33.50:084][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawn/Characters/BP_Marine_01]
+[2023.04.26-10.33.50:652][863]LogSavePackage: Moving '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/BP_Marine_01_Auto5E3EC16E24C0B230C3B5116A8591DBB17.tmp' to '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/Autosaves/Game/Blueprints/Pawn/Characters/BP_Marine_01_Auto5.uasset'
+[2023.04.26-10.33.50:654][863]LogFileHelpers: Auto-saving content packages took 0.605
+[2023.04.26-10.34.14:075][976]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{57c9824c-cbff-4313-aa80-ce0bc051a576}.
+[2023.04.26-10.34.14:075][976]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.26-10.34.14:082][976]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.26-10.34.14:083][976]LogAudioMixer: Display: 1: FrontRight
+[2023.04.26-10.35.29:665][498]BlueprintLog: New page: Compile BP_Animation_Marine_01
+[2023.04.26-10.35.29:793][498]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2023.04.26-10.35.32:318][574]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.26-10.35.32:350][574]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.26-10.35.32:352][574]LogPlayLevel: [PlayLevel] Compiling BP_Marine_01 before play...
+[2023.04.26-10.35.32:493][574]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2023.04.26-10.35.32:498][574]LogPlayLevel: PlayLevel: Blueprint regeneration took 148 ms (1 blueprints)
+[2023.04.26-10.35.32:498][574]PIE: New page: PIE session: Level1 (26 апр. 2023 г., 14:35:32)
+[2023.04.26-10.35.32:498][574]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2023.04.26-10.35.32:502][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003849s)
+[2023.04.26-10.35.32:504][574]LogAIModule: Creating AISystem for world Level1
+[2023.04.26-10.35.32:504][574]LogPlayLevel: PIE: World Init took: (0.001898s)
+[2023.04.26-10.35.32:504][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.005965s)
+[2023.04.26-10.35.32:558][574]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2023.04.26-10.35.32:558][574]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.04.26-10.35.32:558][574]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.26-10.35.32:558][574]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.26-10.35.32:558][574]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.26-10.35.32:558][574]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.26-10.35.32:558][574]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.26-10.35.32:558][574]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.26-10.35.32:558][574]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.26-10.35.32:558][574]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.26-10.35.32:559][574]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.26-10.35.32:559][574]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.26-10.35.32:559][574]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.26-10.35.32:559][574]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.26-10.35.32:564][574]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.26-10.35.32:564][574]LogAudioMixer: Display: 1: FrontRight
+[2023.04.26-10.35.32:580][574]LogAudioMixer: Display: Using Audio Device Наушники (JBL TUNE510BT Stereo)
+[2023.04.26-10.35.32:581][574]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.26-10.35.32:581][574]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.26-10.35.32:581][574]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.26-10.35.32:582][574]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.26-10.35.32:582][574]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.26-10.35.32:582][574]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.26-10.35.32:584][574]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.26-10.35.32:584][574]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.26-10.35.32:584][574]LogInit: FAudioDevice initialized.
+[2023.04.26-10.35.32:584][574]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level1'.
+[2023.04.26-10.35.32:603][574]LogLoad: Game class is 'BP_GameMode_C'
+[2023.04.26-10.35.32:606][574]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.04.26-12.35.32
+[2023.04.26-10.35.32:607][574]LogWorld: Bringing up level for play took: 0.002227
+[2023.04.26-10.35.32:607][574]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2023.04.26-10.35.32:613][574]PIE: Server logged in
+[2023.04.26-10.35.32:614][574]PIE: Play in editor total start time 0,265 seconds.
+[2023.04.26-10.35.42:383][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-10.35.42:383][876]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2023.04.26-10.35.42:383][876]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.04.26-10.35.42:384][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-10.35.42:502][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.26-10.35.42:520][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-10.35.42:551][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-10.35.42:552][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.26-10.35.42:553][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.26-10.35.42:560][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2023.04.26-10.35.42:617][877]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.04.26-10.35.44:096][896]LogEditorViewport: Clicking on Actor (LMB): BP_Marine_01_C (BP_Marine_01)
+[2023.04.26-10.35.45:091][915]Cmd: DELETE
+[2023.04.26-10.35.45:093][915]Cmd: ACTOR DELETE
+[2023.04.26-10.35.45:140][915]LogEditorActor: Deleted Actor: BP_Marine_01_C
+[2023.04.26-10.35.45:336][915]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2023.04.26-10.35.45:342][915]LogEditorActor: Deleted 1 Actors (0.209 secs)
+[2023.04.26-10.35.55:947][108]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.26-10.35.55:974][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.26-10.35.55:974][108]PIE: New page: PIE session: Level1 (26 апр. 2023 г., 14:35:55)
+[2023.04.26-10.35.55:974][108]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2023.04.26-10.35.55:977][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003351s)
+[2023.04.26-10.35.55:979][108]LogAIModule: Creating AISystem for world Level1
+[2023.04.26-10.35.55:979][108]LogPlayLevel: PIE: World Init took: (0.001582s)
+[2023.04.26-10.35.55:979][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.005139s)
+[2023.04.26-10.35.56:039][108]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2023.04.26-10.35.56:047][108]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.04.26-10.35.56:047][108]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.26-10.35.56:047][108]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.26-10.35.56:047][108]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.26-10.35.56:047][108]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.26-10.35.56:047][108]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.26-10.35.56:047][108]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.26-10.35.56:047][108]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.26-10.35.56:047][108]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.26-10.35.56:048][108]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.26-10.35.56:048][108]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.26-10.35.56:048][108]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.26-10.35.56:048][108]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.26-10.35.56:052][108]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.26-10.35.56:052][108]LogAudioMixer: Display: 1: FrontRight
+[2023.04.26-10.35.56:067][108]LogAudioMixer: Display: Using Audio Device Наушники (JBL TUNE510BT Stereo)
+[2023.04.26-10.35.56:068][108]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.26-10.35.56:068][108]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.26-10.35.56:068][108]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.26-10.35.56:068][108]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.26-10.35.56:068][108]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.26-10.35.56:068][108]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.26-10.35.56:070][108]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.26-10.35.56:070][108]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.26-10.35.56:070][108]LogInit: FAudioDevice initialized.
+[2023.04.26-10.35.56:070][108]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level1'.
+[2023.04.26-10.35.56:083][108]LogLoad: Game class is 'BP_GameMode_C'
+[2023.04.26-10.35.56:084][108]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.04.26-12.35.56
+[2023.04.26-10.35.56:085][108]LogWorld: Bringing up level for play took: 0.000683
+[2023.04.26-10.35.56:085][108]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2023.04.26-10.35.56:089][108]PIE: Server logged in
+[2023.04.26-10.35.56:091][108]PIE: Play in editor total start time 0,118 seconds.
+[2023.04.26-10.36.08:313][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-10.36.08:313][469]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2023.04.26-10.36.08:314][469]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.04.26-10.36.08:314][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-10.36.08:439][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.26-10.36.08:445][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-10.36.08:473][469]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.26-10.36.08:474][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.26-10.36.08:475][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.26-10.36.08:477][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-10.36.08:482][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2023.04.26-10.36.08:522][470]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.04.26-10.36.10:643][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2023.04.26-10.36.11:569][492]LogSavePackage: Moving '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/Level1F2513ED34B1FA3033CE186B5BE471CFE.tmp' to '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Content/Level1.umap'
+[2023.04.26-10.36.11:741][492]LogSavePackage: Moving '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/Level1_BuiltDataFC7652FE472243ADCCD38488E7ABB564.tmp' to '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Content/Level1_BuiltData.uasset'
+[2023.04.26-10.36.11:782][492]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.26-10.36.11:782][492]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2023.04.26-10.36.11:782][492]LogContentValidation: Display: Validating World /Game/Level1.Level1
