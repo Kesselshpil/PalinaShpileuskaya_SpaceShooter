@@ -2305,3 +2305,223 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.21-14.22.37:766][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawn/Characters/BP_Marine_01]
 [2023.05.21-14.22.38:831][ 42]LogSavePackage: Moving '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/BP_Marine_01_Auto5FA98DD48407E2AA47402E5B0DCAA90E4.tmp' to '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/Autosaves/Game/Blueprints/Pawn/Characters/BP_Marine_01_Auto5.uasset'
 [2023.05.21-14.22.38:841][ 42]LogFileHelpers: Auto-saving content packages took 1.126
+[2023.05.21-14.39.17:063][235]LogTexture: Display: Building textures: holo_layer_1_5 (OODLE_AutoDXT, 256X256)
+[2023.05.21-14.39.17:064][235]LogTexture: Display: Building textures: T_ExampleLayers_Metal02_N (OODLE_BC5, 2048X2048)
+[2023.05.21-14.39.17:064][235]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.21-14.39.17:064][235]LogTexture: Display: Building textures: T_PaintedMetal01_N (OODLE_BC5, 2048X2048)
+[2023.05.21-14.39.17:064][235]LogTexture: Display: Building textures: SightLens_maskB (OODLE_AutoDXT, 2048X2048)
+[2023.05.21-14.39.17:308][235]LogTexture: Display: Building textures: T_PaintedMetal02 (OODLE_AutoDXT, 2048X2048)
+[2023.05.21-14.39.17:308][235]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.21-14.39.17:308][235]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.21-14.39.18:216][235]LogTexture: Display: Building textures: T_Metal_Metal02_D (OODLE_AutoDXT, 2048X2048)
+[2023.05.21-14.39.18:216][235]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.21-14.39.18:216][235]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.21-14.39.18:216][235]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.21-14.39.18:216][235]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.21-14.39.18:728][235]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.05.21-14.39.18:729][235]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.21-14.39.18:729][235]LogTexture: Display: Building textures: MagGun_01_N (OODLE_BC5, 4096X4096)
+[2023.05.21-14.39.18:729][235]LogTexture: Display: Building textures: SightLens_maskA (OODLE_AutoDXT, 2048X2048)
+[2023.05.21-14.39.20:413][235]LogTexture: Display: Building textures: MagGunT2_shade (OODLE_AutoDXT, 4096X4096)
+[2023.05.21-14.39.20:455][235]LogTexture: Display: Building textures: T_Rubber (OODLE_AutoDXT, 2048X2048)
+[2023.05.21-14.39.20:455][235]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.21-14.39.20:455][235]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.21-14.39.29:794][235]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.05.21-14.39.29:823][235]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.05.21-14.39.29:823][235]LogTexture: Display: Building textures: MagGunT1_section (OODLE_AutoDXT, 4096X4096)
+[2023.05.21-14.39.29:823][235]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.05.21-14.39.29:823][235]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.05.21-14.39.29:824][235]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.05.21-14.39.29:824][235]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.21-14.39.37:051][235]LogTexture: Display: Building textures: MagGunT1_shade (OODLE_AutoDXT, 4096X4096)
+[2023.05.21-14.39.37:051][235]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.05.21-14.39.37:051][235]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.21-14.39.37:051][235]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.21-14.39.37:051][235]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.05.21-14.39.37:051][235]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.05.21-14.39.37:051][235]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.05.21-14.39.37:051][235]LogTexture: Display: Building textures: MagGun_Decals (OODLE_AutoDXT, 512X512)
+[2023.05.21-14.39.37:051][235]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.21-14.39.37:051][235]LogTexture: Display: Building textures: MagGun_Display_EM (OODLE_AutoDXT, 2048X2048)
+[2023.05.21-14.39.37:051][235]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.05.21-14.39.37:052][235]LogMaterial: Display: Missing cached shadermap for MagGun_SightLens_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7FEDC1459145DE9E7C293B003562E4622C822724), compiling. 
+[2023.05.21-14.39.37:713][235]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.05.21-14.39.37:713][235]LogShaderCompilers: Display: Submitted 24 shader compile jobs with 'Low' priority
+[2023.05.21-14.39.43:399][235]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2023.05.21-14.39.43:400][235]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2023.05.21-14.39.43:400][235]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2023.05.21-14.39.43:400][235]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2023.05.21-14.39.43:400][235]LogShaderCompilers: Display: Started 24 'Local' shader compile jobs with 'Low' priority
+[2023.05.21-14.39.43:400][235]LogTexture: Display: Building textures: MagGunT2_section (OODLE_AutoDXT, 4096X4096)
+[2023.05.21-14.39.43:400][235]LogTexture: Display: Building textures: MagGun_02_N (OODLE_BC5, 4096X4096)
+[2023.05.21-14.39.43:400][235]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.05.21-14.39.43:401][235]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.21-14.39.43:401][235]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.05.21-14.39.43:401][235]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.21-14.39.43:401][235]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.21-14.39.43:401][235]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.05.21-14.39.43:402][235]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.05.21-14.39.43:402][235]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.21-14.39.43:402][235]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.21-14.39.43:402][235]LogMaterial: Display: Missing cached shadermap for MagGun_MatA in PCD3D_SM5, Default, SM5 (DDC key hash: 4250EAF28456DA2AD028EEE60E669A98F7EAC8EB), compiling. 
+[2023.05.21-14.39.44:318][235]LogShaderCompilers: Display: Submitted 97 shader compile jobs with 'Low' priority
+[2023.05.21-14.39.44:399][235]LogSkeletalMesh: Display: [AssetLog] D:\ДОМАШКА\4_Программирование\UE4\3_SpaceShooter\PalinaShpileuskaya_SpaceShooter\PalinaShpileuskaya_4\Content\Weapons\Rifle.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.05.21-14.39.44:427][235]LogSkeletalMesh: Building Skeletal Mesh Rifle...
+[2023.05.21-14.39.44:568][235]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/Weapons/Rifle.Rifle
+[2023.05.21-14.39.44:595][235]LogMaterial: Display: Missing cached shadermap for MagGun_MatB in PCD3D_SM5, Default, SM5 (DDC key hash: DFE52A8967D5C33BC29CF86AF69768F1D16CB697), compiling. 
+[2023.05.21-14.39.45:350][235]LogShaderCompilers: Display: Submitted 97 shader compile jobs with 'Low' priority
+[2023.05.21-14.39.47:722][235]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Weapons/Rifle.Rifle
+[2023.05.21-14.39.49:168][235]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0155 seconds. Added 1 classes and 2 folders.
+[2023.05.21-14.39.50:536][235]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.05.21-14.39.51:021][235]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.05.21-14.39.51:589][235]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.21-14.39.51:741][235]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0166 seconds. Added 1 classes and 0 folders.
+[2023.05.21-14.39.56:143][235]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2023.05.21-14.39.56:143][235]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.21-14.39.56:143][235]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.21-14.39.56:143][235]LogShaderCompilers: Display: Total job queries 218, among them cache hits 0 (0.00%)
+[2023.05.21-14.39.56:143][235]LogShaderCompilers: Display: Tracking 3 distinct input hashes that result in 3 distinct outputs (100.00%)
+[2023.05.21-14.39.56:143][235]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.01%
+[2023.05.21-14.39.56:143][235]LogShaderCompilers: Display: ================================================
+[2023.05.21-14.39.57:835][235]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2023.05.21-14.39.57:836][235]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.21-14.39.57:836][235]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2023.05.21-14.39.57:836][235]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.21-14.39.57:836][235]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 190
+[2023.05.21-14.39.57:836][235]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.21-14.39.57:973][236]LogRenderer: Reallocating scene render targets to support 1032x668 Format 10 NumSamples 1 (Frame:1).
+[2023.05.21-14.39.58:080][236]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 180
+[2023.05.21-14.39.58:080][236]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 170
+[2023.05.21-14.39.58:080][236]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2023.05.21-14.40.00:037][271]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2023.05.21-14.40.00:037][271]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.21-14.40.03:777][399]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2023.05.21-14.40.03:777][399]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.21-14.40.05:888][461]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.21-14.40.05:888][461]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.21-14.40.09:308][571]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 157
+[2023.05.21-14.40.09:308][571]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.40.14:494][713]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 147
+[2023.05.21-14.40.14:494][713]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.40.15:113][717]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.21-14.40.19:260][865]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 137
+[2023.05.21-14.40.19:260][865]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.40.19:710][871]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 127
+[2023.05.21-14.40.19:710][871]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.40.31:171][272]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 117
+[2023.05.21-14.40.31:171][272]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.40.34:567][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 107
+[2023.05.21-14.40.34:567][374]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.40.34:885][377]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 97
+[2023.05.21-14.40.34:885][377]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.40.43:727][584]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 87
+[2023.05.21-14.40.43:727][584]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.40.43:821][586]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 77
+[2023.05.21-14.40.43:822][586]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.40.46:006][658]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 67
+[2023.05.21-14.40.46:007][658]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.40.56:362][985]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 57
+[2023.05.21-14.40.56:363][985]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.40.56:507][988]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 47
+[2023.05.21-14.40.56:507][988]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.41.02:344][183]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2023.05.21-14.41.02:344][183]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.41.08:410][387]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2023.05.21-14.41.08:410][387]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.41.11:896][482]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2023.05.21-14.41.11:896][482]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.41.16:669][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2023.05.21-14.41.16:669][590]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.41.17:384][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2023.05.21-14.41.17:384][611]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.41.17:836][622]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2023.05.21-14.41.17:836][622]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.41.19:749][664]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2023.05.21-14.41.19:749][664]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.41.19:895][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2023.05.21-14.41.19:896][666]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.41.20:603][688]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.21-14.41.20:604][688]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.41.21:094][702]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.21-14.41.21:095][702]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.21-14.43.38:803][561]BlueprintLog: New page: Compile BP_Marine_01
+[2023.05.21-14.43.39:212][561]LogUObjectHash: Compacting FUObjectHashTables data took   8.34ms
+[2023.05.21-14.43.43:500][712]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.21-14.43.43:556][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-14.43.43:562][712]PIE: New page: PIE session: Level1 (21 мая 2023 г., 18:43:43)
+[2023.05.21-14.43.43:567][712]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2023.05.21-14.43.43:588][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020937s)
+[2023.05.21-14.43.43:600][712]LogAIModule: Creating AISystem for world Level1
+[2023.05.21-14.43.43:617][712]LogPlayLevel: PIE: World Init took: (0.029404s)
+[2023.05.21-14.43.43:618][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.050859s)
+[2023.05.21-14.43.43:738][712]LogUObjectHash: Compacting FUObjectHashTables data took   8.86ms
+[2023.05.21-14.43.43:742][712]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.05.21-14.43.43:749][712]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-14.43.43:749][712]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-14.43.43:751][712]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-14.43.43:751][712]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-14.43.43:751][712]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-14.43.43:751][712]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.21-14.43.43:751][712]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-14.43.43:751][712]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-14.43.43:758][712]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-14.43.43:758][712]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-14.43.43:758][712]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-14.43.43:758][712]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.21-14.43.43:779][712]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.21-14.43.43:779][712]LogAudioMixer: Display: 1: FrontRight
+[2023.05.21-14.43.43:942][712]LogAudioMixer: Display: Using Audio Device Динамики (Conexant SmartAudio HD)
+[2023.05.21-14.43.43:952][712]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-14.43.43:952][712]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-14.43.43:953][712]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-14.43.43:955][712]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.21-14.43.43:958][712]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.21-14.43.43:958][712]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.21-14.43.43:960][712]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.21-14.43.43:960][712]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.21-14.43.43:960][712]LogInit: FAudioDevice initialized.
+[2023.05.21-14.43.43:960][712]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level1'.
+[2023.05.21-14.43.44:030][712]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-14.43.44:034][712]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.05.21-16.43.44
+[2023.05.21-14.43.44:034][712]LogWorld: Bringing up level for play took: 0.002383
+[2023.05.21-14.43.44:060][712]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2023.05.21-14.43.44:122][712]PIE: Server logged in
+[2023.05.21-14.43.44:125][712]PIE: Play in editor total start time 0,582 seconds.
+[2023.05.21-14.44.15:480][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-14.44.15:480][704]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2023.05.21-14.44.15:487][704]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-14.44.15:491][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-14.44.15:599][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-14.44.15:605][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-14.44.15:641][704]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-14.44.15:646][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.21-14.44.15:646][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.21-14.44.15:651][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-14.44.15:661][704]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2023.05.21-14.44.15:710][705]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.05.21-14.44.17:885][760]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2023.05.21-14.44.18:685][760]LogSavePackage: Moving '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/Level12FBA58FA43A71ABE97344CBF4719CAD3.tmp' to '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Content/Level1.umap'
+[2023.05.21-14.44.19:354][760]LogSavePackage: Moving '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/Level1_BuiltData8360EA624E4BD850FBE3F9BEDADA957E.tmp' to '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Content/Level1_BuiltData.uasset'
+[2023.05.21-14.44.19:400][760]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.21-14.44.19:401][760]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2023.05.21-14.44.19:401][760]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2023.05.21-14.44.47:261][949]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.05.21-14.44.48:127][976]LogUObjectHash: Compacting FUObjectHashTables data took   7.07ms
+[2023.05.21-14.44.49:825][976]LogSavePackage: Moving '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/Level15822409C4F1479AB577631B52D250D72.tmp' to '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Content/Level1.umap'
+[2023.05.21-14.44.49:975][976]LogSavePackage: Moving '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/Level1_BuiltData444B0C6A480B19787B56A4980BBAB405.tmp' to '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Content/Level1_BuiltData.uasset'
+[2023.05.21-14.44.50:029][976]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.21-14.44.50:029][976]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2023.05.21-14.44.50:029][976]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2023.05.21-14.44.52:134][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.21-14.44.54:418][ 64]LogSlate: Window 'Save Content' being destroyed
+[2023.05.21-14.44.55:873][ 64]LogSavePackage: Moving '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Saved/BP_Marine_0147C3CB5E4FD8B725C762A4B92979B2E6.tmp' to '../../../../../ДОМАШКА/4_Программирование/UE4/3_SpaceShooter/PalinaShpileuskaya_SpaceShooter/PalinaShpileuskaya_4/Content/Blueprints/Pawn/Characters/BP_Marine_01.uasset'
+[2023.05.21-14.44.56:046][ 64]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-14.44.56:046][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-14.44.56:740][ 64]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-14.44.56:740][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-14.44.57:164][ 64]LogSlate: Window 'PalinaShpileuskaya_4 - Unreal Editor' being destroyed
+[2023.05.21-14.44.58:223][ 64]AssetCheck: New page: Asset Save: BP_Marine_01
+[2023.05.21-14.44.58:223][ 64]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawn/Characters/BP_Marine_01.BP_Marine_01
+[2023.05.21-14.44.58:229][ 65]Cmd: QUIT_EDITOR
+[2023.05.21-14.44.58:229][ 65]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.05.21-14.44.58:258][ 65]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
